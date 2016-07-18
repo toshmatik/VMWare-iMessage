@@ -1,6 +1,6 @@
 # Instructions
 
-This should work with OSX and Windows on VMWare Fuison and WMWare Workstation, probably with WMWare Player too.
+This should work with OSX and Windows on VMWare Fuison and WMWare Workstation.
 
 This guide has been tested with WMWare Fusion 8 on OS X 10.11.5 and macOS Sierra 10.12 Public Beta 1 as guest OS.
 
