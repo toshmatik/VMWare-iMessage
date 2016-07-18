@@ -23,7 +23,7 @@ Also you will need [Clover Configurator](http://mackie100projects.altervista.org
 
 ## 2. The problem
 
-VMWare does not generate a serial-number and MLB/ROM values which are sopisticated enough. Your _About this Mac_ will look something like this. Notice the _VM_ at the start of the serial-number ? We will fix that an more with this guide.
+VMWare does not generate a serial-number and MLB/ROM values which are sopisticated enough. Your _About this Mac_ will look something like this. Notice the _VM_ at the start of the serial-number ? We will fix that and more with this guide.
 
 ![_About this Mac_](https://raw.githubusercontent.com/toshmatik/VMWare-iMessage/master/Pictures/problem.png)
 
